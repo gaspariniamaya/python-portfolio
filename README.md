@@ -8,7 +8,7 @@ Key Features:
 - uses different commands for colors
 - incorporation of loops
 
-Project # - Line drawing
+Project #2 - Line drawing
 Summary: Draws the image of a smilling orange using turtle commands
 Key Features:
 - uses turtle
@@ -32,3 +32,15 @@ Summary: Allows the user to play rock, paper, scissors against the computer
 Key Features:
 - uses if/elif statements to create results for all possibilities
 - uses global variable to keep track of wins, losses, and ties
+
+Project #6 - Slot Machine: Lets the player play a slot machine game to either gain or lose points.
+Key Features:
+- uses if/elif statements based on user input
+- uses loops
+- uses import random to create different outcomes for the user
+
+Project #7 - Vacation Recommender: randomly recommends the user a vacation spot with a brief description about the place.
+Key Features:
+- uses if statements
+- uses While true loops
+- uses import URL to show an image of the destinations to the user
